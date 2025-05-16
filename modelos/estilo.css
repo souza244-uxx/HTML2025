@@ -1,32 +1,29 @@
-table tr td{
-	border: 1px solid black; /* borda da tabela*/
+table tr td {
+ border: 1px solid black; /*borda da tabela */
 }
 
 table{
-	width: 80% ; /* largura da tabela*/
-	margin: auto; /* alinhamento centralizado da tabela*/
+width: 80%; /* largura da tabela*/
+margin: auto; /* alinhamento centralizado da tabela */
 }
 
-button{ 
-	color: #4169E1; /*cor da fonte*/
-	background: #191970; /* cor do fundo do botão*/
-	font-size: 20px; /* tamanho da fonte*/
-	border-radius: 20px; /* arredonda os cantos*/
-	margin-top: 25px; /* espaçamento na parte de cima do botão */
-	margin-bottom: 25px; /* espaçamento na parte debaixo do botão */
-	margin-left: 20px; /*margem a esquerda*/
-	margin-right: 50px; /*margem a direito*/
-
-	/*margin: 25px 25px 20px 50px;*/
-
-	padding-top: 10px; /*margem interna de cima*/
-	padding-bottom: 10px; /*margem interna de baixo*/
+button{
+	color:#0000CD; /*cor da fonte */
+	background-color:#F5F5F5; /* cor de fundo do botão*/
+	font-size: 15px; /* tamanho da font */
+	border-radius: 50px; /* arredonda os cantos */
+	margin-top : 20px; /*margem do topo */
+	margin-botton:40px; /*margem de baixo*/
+	margin-left: 20px; /* margem a esquerda */
+	margin-right:20px; /* margem a direita */
+	/*margin: 50px 50px 20px 50px*/
+	padding-top: 20px; /* margem interna topo*/
+	padding-bottom: 20px; /* margem interna inferior*/
+	padding-left: 20px; /* margem interna esqueda */
+	padding-right: 20px; /* margem interna direita */ 
 }
-
 p{
-	color:#191970 ;
-	font-size: 25px;
-	font-family: 'Ravie'; /* fonte do texto*/
-	text-transform: lowercase;
-	letter-spacing: 2px;
+ color: #1E90FF;
+ font-size: 50px ;
+ font-family: Arial Black ;
 }
